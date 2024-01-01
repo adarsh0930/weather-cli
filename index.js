@@ -1,5 +1,3 @@
-#!/usr/bin/env node
-
 const getCoordinates = require('./coordinates')
 const getWeather = require('./weather')
 
